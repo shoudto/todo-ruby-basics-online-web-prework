@@ -31,7 +31,7 @@ describe "ruby" do
 
   describe '#greeting' do
     it 'takes two arguments' do
-      def greeting(greeting, name)
+      def greeting
       greeting = "Hi there, "
       name = "Bobby!"
 
